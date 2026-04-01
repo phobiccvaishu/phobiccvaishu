@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vaishnavi (aka phobiccvaishu)
+# 👋 Hi, I'm Vaishnavi (aka vaish)
 
 🎓 I’m a Computer Science Engineering student at **SRM Institute of Science and Technology**, passionate about learning, building, and exploring the tech world.  
 💡 I enjoy solving problems, writing clean code, and bringing ideas to life through projects.
