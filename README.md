@@ -15,10 +15,10 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python, C, C++  
-**Web:** HTML, CSS, JavaScript, FastAPI  
+**Languages:** Java  
+**Web:** HTML, JavaScript, FastAPI  
 **Tools:** Git, GitHub, VS Code  
-**Databases:** MySQL, SQLite  
+**Databases:** MySQL
 **Other Interests:** AI, ML, Search Systems, Data Structures & Algorithms  
 
 ---
