@@ -23,15 +23,48 @@
 
 ---
 
-## 🧠 Projects
-Here are some of my favorite works:
-- 🔍 **ChronoSearch** – Time-based data search and management app  
+- ## 🧠 Projects
+
+### 🔍 ChronoSearch
+Time-based data search and management system  
+- Built using FastAPI with CSV upload and multi-file support  
+- Features: filtering, pagination, sorting, modern UI  
+- Enables efficient time-aware search across datasets  
+
+---
+
+### 🎓 InsightU (Learning Management System)
+Smart academic platform for students and teachers  
+- Includes timetable integration, teacher profiles, and notes system  
+- Personalized dashboards for better learning experience  
+
+---
+
+### 📝 Online Examination System
+Secure web-based exam platform  
+- Features authentication, timed exams, and auto-evaluation  
+- Tracks performance and improves exam management  
+
+---
+
+### ♟️ A* 8 Puzzle Solver
+AI-based problem-solving system  
+- Implemented A* search algorithm with heuristics  
+- Finds optimal solution path efficiently  
+
+---
+
+### ⚔️ War Grid Game (AI-Based)
+Adaptive strategy game using AI  
+- System analyzes player moves and adjusts strategy dynamically  
+- Real-time intelligent opponent behavior  
 
 ---
 
 ## 🌐 Connect With Me
 📧 **Email:** [vaishnavi1657@gmail.com]  
 💼 **GitHub:** [github.com/phobiccvaishu](https://github.com/phobiccvaishu)  
+💼 **LinkedIn:** [www.linkedin.com/in/vaishnavi-singh-076aba343]
 📸 **Portfolio:** 
 
 ---
